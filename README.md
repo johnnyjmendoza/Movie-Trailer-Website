@@ -1,12 +1,13 @@
 # Movie-Trailer-Website
 
-Python based webpage that displays my favorite movies. Once compiled, a static HTML file is created and can be launched independently to view the website.
+Python based webpage that displays movie trailers of my favorite movies. Once compiled, a static HTML file is created and can be launched independently to view the website.
 
-**Overview**
+**Detailed Overview**
 
 This Python program will create a website with my favorite 
-Movie Trailer's when you run the media center file in 
-Python's IDLE. After the program is run for the first time,
+Movie posters that in turn launch movie trailers via Youtube 
+when you run the media center file in Python's IDLE. After the 
+program is run for the first time,
 you will find an HTML file in the same folder as the program.
 Launching this HTML file in your favorite browser such as
 Mozilla Firefox or Microsoft Internet Explorer will allow
@@ -14,13 +15,19 @@ you to view the website without running the Python program
 again. 
 
 
-**Program Files**
+**Primary Files**
 
 1. entertainment_center.py
 2. fresh_tomatoes.py
 3. media.py
 4. readme.txt
+5. README.md
 
+**Additional Files Created After Compiling**
+
+1. fresh_tomatoes.pyc
+2. media.pyc
+3. fresh_tomatoes.html
 
 **Installing Python**
 
@@ -39,7 +46,7 @@ using the instructions below.
 **How to Launch Movie Trailer Website**
 
 1. With Python Shell (IDLE) open on your desktop, go to File 
-   > Open and choose the file named "entertainment_center.py"
+   then Open and choose the file named "entertainment_center.py"
 2. In the window with entertainment_center.py open, select "run" 
    from the menu and then "run module." 
 3. This will launch a movie website where you can view all of 
